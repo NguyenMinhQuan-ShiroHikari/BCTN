@@ -48,10 +48,16 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'banhang10';
+$db['default']['hostname'] = 'jtb9ia3h1pgevwb1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+$db['default']['username'] = 'cajsr5prhc730pw2';
+$db['default']['password'] = 'fqf91mykrsm0ku62';
+$db['default']['database'] = 'moefhagqy27pym52';
+
+// $db['default']['hostname'] = 'localhost';
+// $db['default']['username'] = 'root';
+// $db['default']['password'] = '';
+// $db['default']['database'] = 'banhang10';
+
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = CMS_DB_PREFIX;
 $db['default']['pconnect'] = TRUE;
