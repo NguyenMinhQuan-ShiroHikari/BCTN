@@ -5,7 +5,7 @@
 </div>
 <div class="alert ajax-success" role="alert"
      style="width: 350px;background: rgba(92,130,79,0.9); display:none; color: #fff;"><span
-        style="font-weight: bold; font-size: 18px;">Thông báo!</span>
+        style="font-weight: bold; font-size: 18px;">Thành công!</span>
     <br>
 
     <div class="ajax-success-ct"></div>
